@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Rishit Kohli
+-  2nd year student at VIT-AP
+-  Currently pursuing Computer Science with Specialization in Artificial Intelligence & Machine learning.
+-  Languages known - HTML, CSS, Java, Python, C, C++, Javascript
